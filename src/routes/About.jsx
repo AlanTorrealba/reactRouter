@@ -1,13 +1,12 @@
-import Menu from '../components/Menu'
-import React from 'react'
-
+import React from "react";
+import Menu from "./components/Menu";
 function About() {
   return (
     <div>
-        <Menu/>
+      <Menu />
       About
     </div>
-  )
+  );
 }
 
-export default About
+export default About;
